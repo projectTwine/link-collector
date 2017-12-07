@@ -71,7 +71,7 @@ def channel_uploads(channel_username_or_ID):
 # Pick uploads_ID or uploads_ID_2 based on legitimacy of 2's logic
 # Figure out how best to input difference between username & id
 # 1. add a second input specifying username or ID
-# 2. require something concatenated to end of first input
+# 2. require something concatenated to end of first input - not intuitive enough
 # 3. use separate functions (meh)
 
 
